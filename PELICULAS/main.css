@@ -1,0 +1,25 @@
+.tamaño {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  padding-left: 10px;
+}
+.Alineamiento {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
+.centrar1 {
+  text-align: center;
+  background-color: chartreuse;
+  border-radius: 30px;
+}
+.centrar {
+  display: flex;
+  justify-content: space-around;
+}
+.fondo {
+  background-image: url(650_1200.jpg);
+  background-size: cover;
+  padding-left: 10px;
+}
