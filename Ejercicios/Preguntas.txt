@@ -1,0 +1,22 @@
+1-
+La propiedad de CSS que permite cambiar el comportamiento de los elementos en un contenedor para crear diseños flexibles y eficientes es display. Algunos valores comunes de esta propiedad son:
+inline: Para elementos en línea.
+block: Para elementos que ocupan toda la línea.
+inline-block: Para elementos que se comportan como en línea pero tienen dimensiones.
+flex: Para crear diseños flexibles y distribuir el espacio disponible entre elementos.
+grid: Para crear diseños de página complejos mediante filas y columnas.
+2-
+La propiedad de CSS que permite definir el espacio entre los elementos hijos dentro de un contenedor flex o grid es gap. Se utiliza para establecer el espacio entre filas y columnas en un diseño flexbox o grid, simplificando la creación de espacios entre los elementos sin necesidad de utilizar márgenes o rellenos en cada elemento individualmente.
+3-
+justify-content alinea los elementos a lo largo del eje principal (horizontal en dirección de fila, vertical en dirección de columna) dentro del contenedor flex.
+align-items alinea los elementos a lo largo del eje transversal (vertical en dirección de fila, horizontal en dirección de columna) dentro del contenedor flex.
+4-
+La propiedad de CSS para definir el tamaño de las filas en un contenedor grid es grid-template-rows, mientras que para definir el tamaño de las columnas se utiliza grid-template-columns. Estas propiedades permiten especificar las dimensiones de las filas y columnas en una cuadrícula CSS.
+5-
+La diferencia principal entre display: flex y display: grid es:
+display: flex: Organiza los elementos en una línea, ya sea horizontal o verticalmente, facilitando un diseño flexible en una dimensión.
+display: grid: Organiza los elementos en una cuadrícula bidimensional de filas y columnas, permitiendo un diseño más estructurado y controlado en dos dimensiones.
+6-
+Para alinear los elementos hijos dentro de un contenedor flex en CSS, puedes usar las propiedades:
+justify-content: Para alinear horizontalmente.
+align-items: Para alinear verticalmente.

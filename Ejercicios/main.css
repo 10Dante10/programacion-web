@@ -1,0 +1,29 @@
+.centrar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.centrar5{
+    display: flex;
+    justify-content: center;
+}
+
+
+.Alineamiento{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+  }
+  .Alineamiento10{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
+  }
+
+
+  .centrar1 {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    color: aqua;
+  }
