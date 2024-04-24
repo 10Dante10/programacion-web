@@ -40,8 +40,8 @@
   .grilla{
     display: grid;
     grid-template-columns: repeat(3, 300px);
-    grid-template-rows: repeat(3, 300px);
-    gap: 1%;
+    grid-template-rows: repeat(3, 350px);
+    gap: 3%;
  }
 
 .tamaño{
