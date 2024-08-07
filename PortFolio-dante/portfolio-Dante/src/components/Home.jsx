@@ -4,8 +4,8 @@ function Home() {
   return (
     <div className="home">
       <header className="home-header">
-        <h1> Dante Famá</h1>
-        <p>estudiante de tics</p>
+        <h1> Dante Nicolás Famá</h1>
+        <p>Este es mi PortFolio.</p>
       </header>
     </div>
   );

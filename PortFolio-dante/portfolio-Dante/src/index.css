@@ -2,13 +2,13 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: hsl(0, 2%, 38%);
-  color: hsl(0, 61%, 34%);
+  background-color: #13e2d8e8;
+  color: hsl(240, 100%, 1%);
 }
 
 .navbar {
-  background-color: #171718e8;
-  color: hsl(0, 100%, 51%);
+  background-color: #13e2d8e8;
+  color: hsl(0, 0%, 0%);
   padding: 10px;
   text-align: center;
 }
@@ -29,8 +29,8 @@ body {
 }
 
 .home-header {
-  background-color: hwb(0 13% 86%);
-  color: hsl(0, 84%, 48%);
+  background-color: #13e2d8e8;
+  color: hsl(0, 100%, 0%);
   padding: 20px;
   text-align: center;
 }
@@ -40,11 +40,11 @@ body {
 .resume {
   padding: 20px;
   margin: 20px;
-  background-color: hsl(0, 3%, 38%);
+  background-color: #43ddd5e8;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .link {
-  color: red;
+  color: rgb(30, 217, 224);
 }
