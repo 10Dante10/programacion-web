@@ -3,14 +3,15 @@ import React from "react";
 function Projects() {
   return (
     <div className="projects">
-      <h2>Proyectos</h2>
+      <h1>Proyectos</h1>
       <div className="project">
-        <p>Estos son algunos de mis Proyectos</p>
-        <h3>cartas de rick and morty</h3>
+        <p>Conversor de monedas.</p>
         <p>Hice unas cartas con react de ricky and morty.</p>
+        <p>Hicimos unas cartas sobre peliculas/series.</p>
+        <p>Hice unas 9 cartas sobre Pokemones.</p>
+        <p>Hice un curriculum.</p>
       </div>
       <div className="project">
-        <h3>conversor de moneda</h3>
         <p>Hice un conversor de monedas con react.</p>
         <p></p>
         <a className="link" href="" target="_blank">

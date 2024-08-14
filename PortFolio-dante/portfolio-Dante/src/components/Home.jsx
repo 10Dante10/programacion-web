@@ -7,6 +7,9 @@ function Home() {
         <h1> Dante Nicolás Famá</h1>
         <p>Este es mi PortFolio.</p>
       </header>
+      <div className="centrar1">
+        <img src="messi.png" />
+      </div>
     </div>
   );
 }

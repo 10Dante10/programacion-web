@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+.centrar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.centrar1 {
+  max-width: 100%; /* La imagen nunca será más ancha que el contenedor */
+  max-height: 100%; /* La imagen nunca será más alta que el contenedor */
+  height: auto; /* Mantiene la proporción original */
+  width: 50%; /* Cambia el valor según tus necesidades */
+}
